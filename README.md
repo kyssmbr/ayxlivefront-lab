@@ -1,2 +1,14 @@
 # ayxlivefront-lab
-HTML page archive and documentation
+
+静态页面发布集合
+
+这里用于集中归档一批静态 HTML 页面文件。
+
+## 目录说明
+
+- `README.md` 用于记录仓库用途
+- HTML 文件用于承载发布页面
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
